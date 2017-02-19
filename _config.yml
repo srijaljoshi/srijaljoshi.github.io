@@ -1,9 +1,9 @@
 # main text of home
 name: Srijal Joshi  
-bio: Still searching my spirit
+bio: I think and I know things
 
 # twitter summary info
-description: A blog about stuff I do
+description: This is where I post about what I do
 
 # if it's an external image, update below for true
 # better with square images
@@ -30,16 +30,16 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: srijaljoshi # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+# facebook: myfacebook
 twitter: srizzal
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: srijaljoshi
@@ -51,18 +51,12 @@ github: srijaljoshi
 email: srijal.joshy@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    srijaljoshi:
+        name: Srijal Joshi
+        bio: I do things that you can't possibly imagine
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
