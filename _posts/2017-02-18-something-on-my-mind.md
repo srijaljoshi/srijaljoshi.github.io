@@ -7,10 +7,10 @@ tag:
 - philosophy
 image: https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453_960_720.jpg
 headerImage: true
-projects: true
+projects: false
 jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 description: "In this episode I try to uncover my inner demons"
-category: project
+category: blog
 author: srijaljoshi
 externalLink: false
 publish: true
