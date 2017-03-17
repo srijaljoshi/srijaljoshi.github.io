@@ -8,10 +8,10 @@ tag:
 - fundamentals
 category: blog
 image: https://image.slidesharecdn.com/dynamicmemoryallocationinc-120903114157-phpapp02/95/dynamic-memory-allocation-in-c-1-728.jpg?cb=1346672582
-headerImage: true
+headerImage: false
 author: srijaljoshi
 description: "Learn dynamic memory allocation and deallocation with me"
-externalLink: false
+externalLink: true
 publish: true
 ---
 

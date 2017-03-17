@@ -10,8 +10,8 @@ headerImage: true
 projects: false
 jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 description: "In this episode I try to uncover my inner demons"
-category: blog
-author: srijaljoshi
+category:
+author: 
 externalLink: false
 publish: false
 ---
