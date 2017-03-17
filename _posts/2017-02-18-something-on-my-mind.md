@@ -2,16 +2,25 @@
 title: "Something is on my mind"
 layout: post
 date: 2017-02-18 22:55
-tag: philosophy
-image: https://unsplash.com/photos/8MbdD0pHXGY
+tag:
+- markdown
+- philosophy
+image: https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453_960_720.jpg
 headerImage: true
 projects: true
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 description: "In this episode I try to uncover my inner demons"
 category: project
 author: srijaljoshi
 externalLink: false
 ---
-![Markdowm Image](https://unsplash.com/photos/8MbdD0pHXGY)
+![alt text][1]
+
+{% highlight ruby %}
+1.upto(10) do |i|
+  puts i
+end
+{% endhighlight %}
 
 ---
 
@@ -25,7 +34,5 @@ What has inside?
 - No JS
 - [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 
----
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+[1]: http://i.imgur.com/fnHJnII.jpg
