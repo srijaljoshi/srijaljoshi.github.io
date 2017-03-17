@@ -7,7 +7,7 @@ tag:
 - dynamic memory allocation
 - fundamentals
 category: blog
-image:
+image: https://image.slidesharecdn.com/dynamicmemoryallocationinc-120903114157-phpapp02/95/dynamic-memory-allocation-in-c-1-728.jpg?cb=1346672582
 headerImage: true
 author: srijaljoshi
 description: "Learn dynamic memory allocation and deallocation with me"
@@ -15,7 +15,7 @@ externalLink: false
 publish: true
 ---
 
-I will begin my first post by examining and explaining how dynamic memory allocation works in C++.
+Let me begin my first post by examining and explaining how dynamic memory allocation works in C++.
 First, let me define two concepts related to memory (RAM): **Stack** and **Heap**.
 
 Think of Stack as a place to store records of local variables and functions. The Stack (few KBs or MBs in size) is significantly smaller in size compared to the Heap (as much free RAM as you have - GBs). You have no control over the stack; it is managed by the compiler. Remeber how you don't have to manually destroy local variables after creation? The compiler does that for you.
