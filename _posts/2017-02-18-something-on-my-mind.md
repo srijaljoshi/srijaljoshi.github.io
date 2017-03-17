@@ -13,6 +13,7 @@ description: "In this episode I try to uncover my inner demons"
 category: project
 author: srijaljoshi
 externalLink: false
+publish: true
 ---
 ![alt text][1]
 
