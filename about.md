@@ -5,7 +5,7 @@ layout: page
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
 <p>Hello visitor, I hope you are having a great time. Let me tell you more about myself in this page. </p>
-<p>If I had to pick one word to describe me, it would be 'seeker'. I am relentless when it comes to learning new topics about anything (history, science, philosophy, arts - I don't discriminate). I would say I have that artistic touch as well since I have been playing the guitar for more than 8 years. I believe to have an eclectic taste in music - from classical to modern rock and metal. My wish-list at the moment includes traveling the world (Iceland in particular) and witnessing Aurora Borealis during this lifetime.</p>
+<p>If I had to pick one word to describe me, it would be 'seeker'. I am relentless when it comes to learning new topics about anything (history, science, philosophy, arts - I don't discriminate). I would say I have that artistic touch as well since I have been playing the guitar for more than 8 years. I have recently started working out and I might share about my journey as well if I make real progress. My wish-list at the moment includes traveling the world (Iceland in particular) and witnessing Aurora Borealis during this lifetime.</p>
 <p>You can expect my blog to include a hodgepodge of different topics ranging from programming stuff to some philosophy and quick hacks. I might share some music if I feel like it.</p>
 
 <h2>Skills</h2>
