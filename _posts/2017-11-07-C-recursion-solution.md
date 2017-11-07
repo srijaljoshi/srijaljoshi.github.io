@@ -1,5 +1,18 @@
 ---
-published: false
+title: "Using recursion to add digits of a number repeatedly"
+layout: post
+tag:
+- programming
+- c
+- recursion
+- function
+category: blog
+image: 
+headerImage: false
+author: srijaljoshi
+description: "Learn how to construct a simple recursive function to add digits of a number repeatedly"
+externalLink: true
+publish: true
 ---
 ## Adding digits of a number recursively
 
