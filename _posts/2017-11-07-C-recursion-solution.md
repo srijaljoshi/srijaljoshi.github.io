@@ -19,8 +19,8 @@ publish: true
 In this post I am going to write a C program that adds digits of a positive integer __repeatedly__ until it becomes a one-digit integer using recursive approach.
 
 First, I'll start with a simple recursive function that adds the digits of a positive interger just once.
-https://repl.it/Ns8n/2
-<script src="//repl.it/embed/Ns8n/2.js"></script>
+
+<script src="//repl.it/embed/NshP/0.js"></script>
 
 In this solution, the digits of the input integer *x* will be added just once. The recurrence relation involves extracting the last digit and adding it to the result of the recursive call on the number without its last digit.  The base case involves checking whether *x* has been reduced to a single digit. Let me explain the flow of the program below.
 
