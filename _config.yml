@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: false
 resume-url: assets/resume.pdf
 
@@ -69,7 +69,7 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: false
-resume: true
+
 # if you don't need "about" or "blog", comment them out below
 about: false
 blog: true
